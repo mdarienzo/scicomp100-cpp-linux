@@ -2,7 +2,45 @@
 1497159326 source:/home/dbiersach/Desktop/scicomp-labs-cpp-linux/euclid-gcd/euclid-gcd.cpp
 	"stdafx.h"
 
+1497159326 
+
 1495228185 /home/dbiersach/Desktop/scicomp-labs-cpp-linux/euclid-gcd/stdafx.h
+	<stdio.h>
+	<time.h>
+	<math.h>
+	<algorithm>
+	<array>
+	<assert.h>
+	<atomic>
+	<chrono>
+	<cmath>
+	<cstdio>
+	<fstream>
+	<functional>
+	<iomanip>
+	<iostream>
+	<iterator>
+	<limits>
+	<locale>
+	<memory>
+	<map>
+	<mutex>
+	<random>
+	<sstream>
+	<string>
+	<thread>
+	<time.h>
+	<tuple>
+	<unordered_map>
+	<utility>
+	<vector>
+
+1495228185 
+
+1533131798 source:/home/scicompuser3/Desktop/stemprep/session09/lab2/euclid-gcd.cpp
+	"stdafx.h"
+
+1532960028 /home/scicompuser3/Desktop/stemprep/session09/lab2/stdafx.h
 	<stdio.h>
 	<time.h>
 	<math.h>

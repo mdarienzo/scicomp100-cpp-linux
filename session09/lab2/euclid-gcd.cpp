@@ -22,6 +22,7 @@ int GCD(int a, int b)
             a =
             b =
         }
+        aMinusB = a - b;
     }
 
     return b;
