@@ -9,11 +9,11 @@ int GCD(int a, int b)
     if(a < b)
         swap(a, b);
 
-    int aMinusB = a - b;
+    int difference = a - b;
 
-    while(aMinusB > 0)
+    while(difference > 0)
     {
-        if(aMinusB > b)
+        if(difference > b)
         {
             a =
         }
@@ -22,7 +22,7 @@ int GCD(int a, int b)
             a =
             b =
         }
-        aMinusB = a - b;
+        difference = a - b;
     }
 
     return b;
