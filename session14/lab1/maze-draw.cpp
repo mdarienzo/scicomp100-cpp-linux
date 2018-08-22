@@ -148,7 +148,7 @@ void ValidateMaze()
 		}
 		if ((maze[i][9] & 2) != 2) {
 			cout << "Cell (" << i << ",9)"
-				<< " is missing the west wall" << endl;
+				<< " is missing the east wall" << endl;
 			exit(-1);
 		}
 		if ((maze[9][i] & 4) != 4) {
@@ -158,7 +158,7 @@ void ValidateMaze()
 		}
 		if ((maze[i][0] & 8) != 8) {
 			cout << "Cell (" << i << ",0)"
-				<< " is missing the east wall" << endl;
+				<< " is missing the west wall" << endl;
 			exit(-1);
 		}
 	}
