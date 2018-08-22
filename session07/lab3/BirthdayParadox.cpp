@@ -25,7 +25,7 @@ int main()
 
 			for(int j{}; !foundMatch && j < birthdays->size() - 1; j++)
                 for(int k{j+1]; !foundMatch && k < birthdays->size(); k++)
-                    if(birthdays->at(j) == birthdays->size(); k++)
+                    if(birthdays->at(j) == birthdays->at(k))
                         foundMatch =
 
 			if (foundMatch)
